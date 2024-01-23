@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CalculadoraJuros.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="x2" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="x3" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">3.9</Value>
+    </Setting>
+    <Setting Name="x4" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">6.9</Value>
+    </Setting>
+    <Setting Name="x5" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">8.21</Value>
+    </Setting>
+    <Setting Name="x6" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">9.21</Value>
+    </Setting>
+    <Setting Name="x7" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">9.85</Value>
+    </Setting>
+    <Setting Name="x8" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">10.8</Value>
+    </Setting>
+    <Setting Name="x9" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">11.65</Value>
+    </Setting>
+    <Setting Name="x10" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">12.46</Value>
+    </Setting>
+    <Setting Name="x11" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">13.3</Value>
+    </Setting>
+    <Setting Name="x12" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">14.2</Value>
+    </Setting>
+    <Setting Name="debito" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="pix" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="ultima" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">01/01/2024 12:00:00</Value>
+    </Setting>
+    <Setting Name="x1" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

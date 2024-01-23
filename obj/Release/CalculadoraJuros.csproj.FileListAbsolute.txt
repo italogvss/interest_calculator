@@ -1,0 +1,11 @@
+C:\Users\Italo\Documents\Visual Studio 2022\Projects\CalculadoraJuros\bin\Release\CalculadoraJuros.exe.config
+C:\Users\Italo\Documents\Visual Studio 2022\Projects\CalculadoraJuros\bin\Release\CalculadoraJuros.exe
+C:\Users\Italo\Documents\Visual Studio 2022\Projects\CalculadoraJuros\bin\Release\CalculadoraJuros.pdb
+C:\Users\Italo\Documents\Visual Studio 2022\Projects\CalculadoraJuros\obj\Release\CalculadoraJuros.csproj.AssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2022\Projects\CalculadoraJuros\obj\Release\CalculadoraJuros.MainWindow.resources
+C:\Users\Italo\Documents\Visual Studio 2022\Projects\CalculadoraJuros\obj\Release\CalculadoraJuros.PorcentagemWindow.resources
+C:\Users\Italo\Documents\Visual Studio 2022\Projects\CalculadoraJuros\obj\Release\CalculadoraJuros.Properties.Resources.resources
+C:\Users\Italo\Documents\Visual Studio 2022\Projects\CalculadoraJuros\obj\Release\CalculadoraJuros.csproj.GenerateResource.cache
+C:\Users\Italo\Documents\Visual Studio 2022\Projects\CalculadoraJuros\obj\Release\CalculadoraJuros.csproj.CoreCompileInputs.cache
+C:\Users\Italo\Documents\Visual Studio 2022\Projects\CalculadoraJuros\obj\Release\CalculadoraJuros.exe
+C:\Users\Italo\Documents\Visual Studio 2022\Projects\CalculadoraJuros\obj\Release\CalculadoraJuros.pdb
